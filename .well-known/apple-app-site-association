@@ -7,6 +7,6 @@
        		"details": [{
            	"appID": "X93K6MEBXB.games.llabs.tests",
            	"paths": ["*"]
-        }]
+        }
     }
 }
